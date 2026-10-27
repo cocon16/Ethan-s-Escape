@@ -10,7 +10,7 @@ P.S. Nazwa jest niewyrafinowana - Ethan to była po prostu nazwa gotowego assetu
 
 ### Instrukcja
 
-Pobrać, rozpakować i uruchomić plik **„Ethan's Escape - TRW Piotr Walter”**.
+Pobrać (code->download .zip), rozpakować i uruchomić plik **„Ethan's Escape - TRW Piotr Walter”**.
 
 Jeśli ktoś polegnie lub chce sprawdzić zakończenie gry - w stylu gry zręcznościowej - to można uruchomić plik `.exe` z folderu **FINAL SCENE ONLY**.
 
